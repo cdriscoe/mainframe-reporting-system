@@ -1,0 +1,653 @@
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   1
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+Athens, Greece             George Makedonas             03    NEW YORK TAX FREE FUND           $4,679.42         1          443.5460
+
+                                                        04    HONG KONG INVESTORS FUND        $30,103.48         1       29,513.2150
+
+                                                        21    HUSKIES HIGH YIELD FUND         $43,761.28         3        4,376.1280
+
+                                                        65    BERLINER PHILH HIGH YIELD       $43,625.88         2          484.7850
+
+Athens, Greece             Aristotle Onassis            03    NEW YORK TAX FREE FUND             $737.11         1           69.8680
+
+                                                        10    20TH CENT MONEY MKT FUND         $5,889.76         3          294.6350
+
+                                                        33    MONEY MKT SECURE FUND            $5,862.82         1          586.2820
+
+                                                        55    WIENER PHILH HIGH YIELD          $6,017.71         2        6,078.4940
+
+Athens, Greece             Jackie Onassis               65    BERLINER PHILH HIGH YIELD          $103.71         2            1.1520
+
+                                                        64    AMERICAN MONEY MKT FUND          $3,009.94         3           56.5450
+
+                                                        33    MONEY MKT SECURE FUND            $1,953.82         2          217.0910
+
+                                                        54    **** FUND NOT FOUND *****        $3,154.54         -            0.0000
+
+Athens, Greece             Maria Callas                 21    HUSKIES HIGH YIELD FUND            $452.64         2           38.4570
+
+                                                        20    RINGLING BROS MONEY MKT         $15,059.18         2          962.2470
+
+Athens, Greece             Enid Holt                    20    RINGLING BROS MONEY MKT            $586.82         3           40.9500
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   2
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+Athens, Greece             Kostas Siegrid               21    HUSKIES HIGH YIELD FUND          $1,655.94         2          140.6910
+
+                                                        20    RINGLING BROS MONEY MKT          $3,145.61         2          200.9970
+
+                                                        34    DEWEY HIGH YIELD FUND            $3,022.53         3          151.8850
+
+Berlin, Germany            Erich Kleiber                21    HUSKIES HIGH YIELD FUND        $422,765.51         3       42,276.5510
+
+                                                        20    RINGLING BROS MONEY MKT          $5,876.36         3          410.0730
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $30,099.28         2       30,713.5510
+
+Berlin, Germany            Wilhelm Furtwaengler         34    DEWEY HIGH YIELD FUND              $437.61         1           21.9680
+
+                                                        06    CITY OF DEKALB BLDG FUND     $1,353,999.86         1      270,799.9720
+
+Berlin, Germany            Adolph Dege                  33    MONEY MKT SECURE FUND            $4,377.48         2          486.3860
+
+                                                        21    HUSKIES HIGH YIELD FUND          $4,373.28         2          371.5610
+
+                                                        34    DEWEY HIGH YIELD FUND           $13,540.00         3          680.4020
+
+Berlin, Germany            Johannes Klopp               55    WIENER PHILH HIGH YIELD          $6,017.17         2        6,077.9490
+
+                                                        06    CITY OF DEKALB BLDG FUND     $1,353,999.86         3      271,887.5220
+
+Berlin, Germany            Eugen Jochum                 46    JOHN PHILIP SOUSA FUND           $4,649.63         2          697.0950
+
+                                                        33    MONEY MKT SECURE FUND           $15,195.94         1        1,519.5940
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   3
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        31    CHICAGO INVESTORS FUND          $27,080.00         3        2,461.8180
+
+                                                        04    HONG KONG INVESTORS FUND        $16,718.78         3       22,592.9450
+
+Bonn, Germany              Ludwig van Beethoven         55    WIENER PHILH HIGH YIELD          $4,513.28         1        4,513.2800
+
+Bonn, Germany              Uwe Schmidt                  58    LONDON INVESTORS FUND            $6,011.76         2           60.1230
+
+                                                        61    WASHINGTON & ADAMS FUND          $5,880.42         3      588,042.0000
+
+Bonn, Germany              Helga Dernesch               58    LONDON INVESTORS FUND            $7,230.36         3           81.2490
+
+                                                        62    THOS JEFFERSON HIGH YLD          $1,817.06         2           25.9610
+
+                                                        34    DEWEY HIGH YIELD FUND            $1,653.23         3           83.0760
+
+                                                        03    NEW YORK TAX FREE FUND         $167,160.37         3       18,995.4960
+
+Bonn, Germany              Richard Strauss              64    AMERICAN MONEY MKT FUND         $31,737.76         2          317.4090
+
+                                                        65    BERLINER PHILH HIGH YIELD      $135,399.86         3        3,843.3110
+
+                                                        64    AMERICAN MONEY MKT FUND         $30,221.28         2          302.2430
+
+Chicago, U.S.              Maurizio Damilano            65    BERLINER PHILH HIGH YIELD        $7,687.33         3          218.2040
+
+Chicago, U.S.              Chi Yen Weh                  66    **** FUND NOT FOUND *****        $1,804.88         -            0.0000
+
+                                                        51    21ST CENT MONEY MKT FUND        $31,457.48         3        4,730.4480
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   4
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        65    BERLINER PHILH HIGH YIELD       $31,412.80         1          317.3010
+
+Chicago, U.S.              Steve Peplowski              61    WASHINGTON & ADAMS FUND         $31,453.42         1    3,145,342.0000
+
+                                                        46    JOHN PHILIP SOUSA FUND           $4,513.28         3          813.2030
+
+                                                        30    SINGAPORE INVESTORS FUND        $44,682.00         2          446.8640
+
+                                                        46    JOHN PHILIP SOUSA FUND          $13,540.00         3        2,439.6390
+
+Chicago, U.S.              Michael Smith                61    WASHINGTON & ADAMS FUND         $15,042.94         2    1,504,294.0000
+
+Chicago, U.S.              Charles Melodia              34    DEWEY HIGH YIELD FUND           $43,761.28         3        2,199.0590
+
+                                                        13    ZURICH INVESTORS FUND            $3,022.12         3        3,148.0410
+
+                                                        33    MONEY MKT SECURE FUND           $43,598.80         1        4,359.8800
+
+                                                        46    JOHN PHILIP SOUSA FUND          $27,080.00         2        4,059.9700
+
+Chicago, U.S.              Lisa Loganski                33    MONEY MKT SECURE FUND            $1,671.51         2          185.7230
+
+                                                        58    LONDON INVESTORS FUND            $4,376.12         3           49.1750
+
+                                                        58    LONDON INVESTORS FUND          $136,902.94         1        1,355.4740
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $40,620.00         2       41,448.9790
+
+Chicago, U.S.              Theodore Thomas              30    SINGAPORE INVESTORS FUND        $15,045.64         1          148.9660
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   5
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        61    WASHINGTON & ADAMS FUND         $13,540.00         2    1,354,000.0000
+
+Chicago, U.S.              Frederick Stock              30    SINGAPORE INVESTORS FUND        $31,615.76         1          313.0270
+
+                                                        46    JOHN PHILIP SOUSA FUND          $31,456.39         2        4,716.1000
+
+Belfast, N. Ireland        Billy O'Leary                30    SINGAPORE INVESTORS FUND        $12,804.77         2          128.0600
+
+                                                        20    RINGLING BROS MONEY MKT          $4,373.42         3          305.1930
+
+                                                        58    LONDON INVESTORS FUND           $31,453.42         3          353.4480
+
+                                                        51    21ST CENT MONEY MKT FUND        $54,160.00         3        8,144.3600
+
+Belfast, N. Ireland        Anna Owen                    55    WIENER PHILH HIGH YIELD        $133,727.81         3      136,456.9480
+
+Edinburgh, U.K.            Billy Connolly               51    21ST CENT MONEY MKT FUND         $2,239.51         3          336.7680
+
+                                                        21    HUSKIES HIGH YIELD FUND          $4,497.98         2          382.1560
+
+Edinburgh, U.K.            Omar Sharif                  13    ZURICH INVESTORS FUND           $16,248.00         3       16,925.0000
+
+                                                        34    DEWEY HIGH YIELD FUND           $27,079.86         3        1,360.7960
+
+                                                        58    LONDON INVESTORS FUND            $4,377.48         2           43.7790
+
+Edinburgh, U.K.            Julie Christie               04    HONG KONG INVESTORS FUND       $152,104.97         3      205,547.2560
+
+Edinburgh, U.K.            James Oxfordshire            03    NEW YORK TAX FREE FUND           $4,630.68         3          526.2130
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   6
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        30    SINGAPORE INVESTORS FUND         $3,157.52         2           31.5780
+
+                                                        21    HUSKIES HIGH YIELD FUND          $3,005.88         3          300.5880
+
+                                                        51    21ST CENT MONEY MKT FUND        $74,470.00         2       11,164.9170
+
+Frankfurt, Germany         Johannes Dundor              03    NEW YORK TAX FREE FUND           $1,670.83         2          167.4170
+
+Frankfurt, Germany         Gretel Decker                21    HUSKIES HIGH YIELD FUND          $4,648.28         3          464.8280
+
+                                                        21    HUSKIES HIGH YIELD FUND          $3,143.98         3          314.3980
+
+                                                        20    RINGLING BROS MONEY MKT         $10,507.04         1          594.9620
+
+Frankfurt, Germany         Adam Dieffenbach             21    HUSKIES HIGH YIELD FUND         $16,755.75         3        1,675.5750
+
+                                                        04    HONG KONG INVESTORS FUND        $16,545.88         3       22,359.2970
+
+                                                        21    HUSKIES HIGH YIELD FUND          $4,657.76         2          395.7310
+
+                                                        55    WIENER PHILH HIGH YIELD         $16,248.00         2       16,412.1210
+
+Hong Kong, China           Mao Zedong                   20    RINGLING BROS MONEY MKT          $3,144.12         1          178.0360
+
+                                                        04    HONG KONG INVESTORS FUND         $1,516.20         3        2,048.9180
+
+                                                        35    CHEATHAM HIGH YIELD FUND         $3,008.58         2        3,069.9790
+
+Hong Kong, China           Zhou Enlai                   20    RINGLING BROS MONEY MKT          $1,654.58         3          115.4620
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   7
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        03    NEW YORK TAX FREE FUND           $1,624.80         3          184.6360
+
+                                                        55    WIENER PHILH HIGH YIELD          $1,516.07         2        1,531.3830
+
+                                                        58    LONDON INVESTORS FUND           $29,788.00         2          297.9090
+
+Hong Kong, China           Zhau Ziyang                  13    ZURICH INVESTORS FUND           $28,721.18         2       29,609.4630
+
+                                                        51    21ST CENT MONEY MKT FUND         $2,843.40         3          427.5780
+
+                                                        51    21ST CENT MONEY MKT FUND        $13,540.00         3        2,036.0900
+
+                                                        33    MONEY MKT SECURE FUND           $14,907.26         1        1,490.7260
+
+Hong Kong, China           Chiang Kai-shek              13    ZURICH INVESTORS FUND            $4,376.12         3        4,558.4580
+
+                                                        51    21ST CENT MONEY MKT FUND         $1,489.40         3          223.9690
+
+                                                        30    SINGAPORE INVESTORS FUND        $54,160.00         1          536.2370
+
+                                                        33    MONEY MKT SECURE FUND          $170,004.85         3       21,250.6060
+
+Hong Kong, China           Shau-Zin Loki                10    20TH CENT MONEY MKT FUND        $16,698.88         2          799.7540
+
+                                                        21    HUSKIES HIGH YIELD FUND         $10,561.20         3        1,056.1200
+
+                                                        31    CHICAGO INVESTORS FUND           $6,770.00         3          615.4540
+
+                                                        46    JOHN PHILIP SOUSA FUND          $32,031.17         3        5,771.3810
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   8
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+Hong Kong, China           Stephanie Buckingham         13    ZURICH INVESTORS FUND            $4,362.99         1        4,362.9900
+
+Hong Kong, China           Don Draper                   14    **** FUND NOT FOUND *****       $15,056.34         -            0.0000
+
+Kansas City, U.S.          Geoffrey Decker              46    JOHN PHILIP SOUSA FUND           $2,708.00         2          405.9970
+
+London, U.K.               Elizabeth Windsor            46    JOHN PHILIP SOUSA FUND         $165,350.48         3       29,792.8790
+
+                                                        21    HUSKIES HIGH YIELD FUND         $43,761.28         2        3,718.0350
+
+London, U.K.               Stevie Nicks                 61    WASHINGTON & ADAMS FUND        $300,887.23         2   30,088,723.0000
+
+                                                        62    THOS JEFFERSON HIGH YLD          $4,508.82         3           75.1590
+
+                                                        33    MONEY MKT SECURE FUND            $5,862.82         2          651.4240
+
+                                                        46    JOHN PHILIP SOUSA FUND          $46,577.60         3        8,392.3600
+
+London, U.K.               Andrew Windsor               61    WASHINGTON & ADAMS FUND         $13,702.34         1    1,370,234.0000
+
+                                                        62    THOS JEFFERSON HIGH YLD          $1,354.00         2           19.3450
+
+                                                        33    MONEY MKT SECURE FUND           $18,231.61         3        2,278.9510
+
+                                                        46    JOHN PHILIP SOUSA FUND          $88,957.80         3       16,028.4320
+
+London, U.K.               Michael Windsor              58    LONDON INVESTORS FUND              $406.20         3            4.5640
+
+London, U.K.               Phillip Windsor              65    BERLINER PHILH HIGH YIELD       $13,377.38         3          379.7150
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:   9
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        64    AMERICAN MONEY MKT FUND         $31,591.52         2          315.9460
+
+                                                        13    ZURICH INVESTORS FUND           $30,096.03         2       31,026.8350
+
+London, U.K.               William Windsor              71    **** FUND NOT FOUND *****       $27,079.86         -            0.0000
+
+                                                        65    BERLINER PHILH HIGH YIELD        $6,001.19         2           66.6870
+
+                                                        04    HONG KONG INVESTORS FUND         $3,141.28         3        4,244.9720
+
+                                                        46    JOHN PHILIP SOUSA FUND          $91,770.73         3       16,535.2660
+
+Los Angeles, U.S.          William Mills                62    THOS JEFFERSON HIGH YLD         $31,579.34         3          526.4100
+
+Los Angeles, U.S.          Catherine Monteiro           62    THOS JEFFERSON HIGH YLD         $16,709.84         2          238.7460
+
+Los Angeles, U.S.          Lindsay Lohan                65    BERLINER PHILH HIGH YIELD        $1,353.86         3           38.4290
+
+                                                        20    RINGLING BROS MONEY MKT         $31,443.94         3        2,194.2730
+
+                                                        20    RINGLING BROS MONEY MKT         $31,439.88         2        2,008.9380
+
+                                                        05    BRIDGE'S BUILDING FUND           $1,354.00         2          113.9730
+
+Los Angeles, U.S.          Paris Hilton                 46    JOHN PHILIP SOUSA FUND           $2,707.86         3          487.9020
+
+                                                        10    20TH CENT MONEY MKT FUND         $4,373.42         3          218.7800
+
+                                                        03    NEW YORK TAX FREE FUND           $4,514.10         1          427.8760
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  10
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        80    **** FUND NOT FOUND *****            $0.00         -            0.0000
+
+Moscow, Russia             Ivan Grozny                  40    **** FUND NOT FOUND *****       $32,495.86         -            0.0000
+
+                                                        94    **** FUND NOT FOUND *****        $4,508.82         -            0.0000
+
+                                                        03    NEW YORK TAX FREE FUND          $16,248.00         3        1,846.3630
+
+                                                        61    WASHINGTON & ADAMS FUND          $4,062.00         2      406,200.0000
+
+Moscow, Russia             Vladimir Ashkenazy           35    CHEATHAM HIGH YIELD FUND             $0.00         2            0.0000
+
+Moscow, Russia             Serge Rachmaninov            20    RINGLING BROS MONEY MKT         $16,789.46         3        1,171.6300
+
+                                                        46    JOHN PHILIP SOUSA FUND          $13,540.00         3        2,439.6390
+
+                                                        30    SINGAPORE INVESTORS FUND        $29,788.00         1          294.9300
+
+Moscow, Russia             Vladimir Putin               21    HUSKIES HIGH YIELD FUND          $4,680.23         2          397.6400
+
+                                                        51    21ST CENT MONEY MKT FUND        $14,894.00         3        2,239.6990
+
+                                                        33    MONEY MKT SECURE FUND           $44,682.00         2        4,964.6660
+
+                                                        46    JOHN PHILIP SOUSA FUND         $169,250.00         2       25,374.8120
+
+Moscow, Russia             Leonid Breshnev              21    HUSKIES HIGH YIELD FUND         $22,702.38         3        2,270.2380
+
+                                                        64    AMERICAN MONEY MKT FUND         $14,894.00         3          279.8040
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  11
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $74,470.00         2       75,989.7950
+
+Moscow, Russia             Dmitri Shostakovich          20    RINGLING BROS MONEY MKT          $3,157.93         2          201.7840
+
+New York, U.S.             Gary Graffman                21    HUSKIES HIGH YIELD FUND          $4,663.85         3          466.3850
+
+New York, U.S.             Andre Previn                 03    NEW YORK TAX FREE FUND          $16,559.28         2        1,659.2460
+
+New York, U.S.             Samuel Jefferson             10    20TH CENT MONEY MKT FUND        $46,713.00         1        2,124.2830
+
+New York, U.S.             John Adams                   30    SINGAPORE INVESTORS FUND        $16,708.36         3          474.2650
+
+New York, U.S.             Cheryl Studer                35    CHEATHAM HIGH YIELD FUND         $6,011.76         2        6,134.4480
+
+                                                        33    MONEY MKT SECURE FUND           $16,248.00         3        2,031.0000
+
+                                                        36    **** FUND NOT FOUND *****      $117,798.00         -            0.0000
+
+                                                        58    LONDON INVESTORS FUND          $304,650.00         2        3,046.8040
+
+New York, U.S.             Renee Fleming                46    JOHN PHILIP SOUSA FUND           $7,528.10         2        1,128.6500
+
+                                                        33    MONEY MKT SECURE FUND           $43,328.00         3        5,416.0000
+
+                                                        51    21ST CENT MONEY MKT FUND        $60,943.26         2        9,136.9200
+
+New York, U.S.             Birgit Nilsson               44    **** FUND NOT FOUND *****       $10,358.10         -            0.0000
+
+                                                        33    MONEY MKT SECURE FUND          $165,201.26         2       18,355.6950
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  12
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        51    21ST CENT MONEY MKT FUND         $4,495.28         1          481.8090
+
+                                                        58    LONDON INVESTORS FUND           $16,518.80         3          185.6250
+
+New York, U.S.             Christa Ludwig               51    21ST CENT MONEY MKT FUND        $16,708.36         2        2,505.0010
+
+                                                        34    DEWEY HIGH YIELD FUND           $31,439.88         2        1,579.0990
+
+                                                        51    21ST CENT MONEY MKT FUND        $58,222.00         3        8,755.1870
+
+                                                        58    LONDON INVESTORS FUND           $30,248.22         3          339.9050
+
+New York, U.S.             James Levine                 55    WIENER PHILH HIGH YIELD          $1,665.42         3        1,699.4080
+
+                                                        34    DEWEY HIGH YIELD FUND           $13,540.00         2          680.0600
+
+                                                        51    21ST CENT MONEY MKT FUND        $30,058.80         2        4,506.5660
+
+                                                        58    LONDON INVESTORS FUND           $15,029.40         3          168.8880
+
+New York, U.S.             Leonard Bernstein            55    WIENER PHILH HIGH YIELD        $135,400.00         1      135,400.0000
+
+Paris, France              Napoleon Bonaparte           55    WIENER PHILH HIGH YIELD        $311,420.00         2      314,565.6560
+
+                                                        04    HONG KONG INVESTORS FUND        $13,553.40         2       13,830.0000
+
+                                                        46    JOHN PHILIP SOUSA FUND          $13,540.00         3        2,439.6390
+
+                                                        58    LONDON INVESTORS FUND           $27,080.00         2          270.8270
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  13
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+Paris, France              Claude Monet                 58    LONDON INVESTORS FUND          $600,282.22         1        5,943.3880
+
+Paris, France              Olivier Messiaen             34    DEWEY HIGH YIELD FUND           $31,602.08         2        1,587.2460
+
+Paris, France              Claude Debussy               34    DEWEY HIGH YIELD FUND           $46,496.22         1        2,334.1470
+
+                                                        21    HUSKIES HIGH YIELD FUND          $4,062.00         3          406.2000
+
+                                                        55    WIENER PHILH HIGH YIELD         $13,540.00         2       13,676.7670
+
+Paris, France              Maurice Ravel                51    21ST CENT MONEY MKT FUND         $1,651.88         3          248.4030
+
+                                                        22    CITY OF CORTLAND BLDG           $44,682.00         2          496.5210
+
+                                                        55    WIENER PHILH HIGH YIELD         $27,080.00         2       27,353.5350
+
+                                                        46    JOHN PHILIP SOUSA FUND          $40,620.00         3        7,318.9180
+
+Paris, France              Edith Piaf                   61    WASHINGTON & ADAMS FUND          $4,517.89         1      451,789.0000
+
+                                                        21    HUSKIES HIGH YIELD FUND         $43,328.00         1        3,335.4880
+
+                                                        55    WIENER PHILH HIGH YIELD         $40,620.00         3       41,448.9790
+
+                                                        46    JOHN PHILIP SOUSA FUND         $181,436.00         3       32,691.1710
+
+Paris, France              Coco Chanel                  10    20TH CENT MONEY MKT FUND         $4,514.23         1          205.2850
+
+                                                        33    MONEY MKT SECURE FUND           $41,974.00         2        4,663.7770
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  14
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        55    WIENER PHILH HIGH YIELD         $54,160.00         2       54,707.0700
+
+Rio de Janeiro, Br.        Joao Castagneto              13    ZURICH INVESTORS FUND           $15,044.29         3       15,671.1350
+
+                                                        34    DEWEY HIGH YIELD FUND            $4,468.20         3          224.5320
+
+Rio de Janeiro, Br.        Lasar Segall                 13    ZURICH INVESTORS FUND           $30,099.28         2       31,030.1850
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $15,029.40         2       15,336.1220
+
+                                                        55    WIENER PHILH HIGH YIELD        $203,100.00         3      207,244.8970
+
+Rio de Janeiro, Br.        Tarsila do Amaral            13    ZURICH INVESTORS FUND           $58,809.63         3       61,260.0310
+
+Rio de Janeiro, Br.        Eliseu Visconti              10    20TH CENT MONEY MKT FUND         $5,862.82         1          266.6130
+
+Rome, Italy                Julius Caesar                58    LONDON INVESTORS FUND            $7,521.47         2           75.2220
+
+                                                        34    DEWEY HIGH YIELD FUND           $31,453.42         3        1,580.5730
+
+                                                        55    WIENER PHILH HIGH YIELD        $150,442.80         3      153,513.0610
+
+                                                        46    JOHN PHILIP SOUSA FUND         $160,828.12         3       28,978.0390
+
+Rome, Italy                Franco Sinatra               64    AMERICAN MONEY MKT FUND         $90,265.76         1          893.7200
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $45,101.46         3       80,538.3210
+
+                                                        46    JOHN PHILIP SOUSA FUND          $58,763.60         2        8,810.1340
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  15
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        55    WIENER PHILH HIGH YIELD        $120,352.32         2      121,568.0000
+
+Rome, Italy                Giacomo Puccini              65    BERLINER PHILH HIGH YIELD        $7,805.81         3          221.5670
+
+                                                        46    JOHN PHILIP SOUSA FUND           $4,525.74         2          678.5210
+
+                                                        61    WASHINGTON & ADAMS FUND        $203,100.00         2   20,310,000.0000
+
+                                                        55    WIENER PHILH HIGH YIELD          $1,638.34         1        1,638.3400
+
+Rome, Italy                Enrico Caruso                65    BERLINER PHILH HIGH YIELD       $43,643.48         2          484.9810
+
+Rome, Italy                Sofia Loren                  64    AMERICAN MONEY MKT FUND          $6,015.82         2           60.1640
+
+                                                        46    JOHN PHILIP SOUSA FUND          $31,412.80         3        5,659.9630
+
+Sydney, Australia          Milton Sheppard              64    AMERICAN MONEY MKT FUND        $623,538.66         2        6,236.0100
+
+                                                        35    CHEATHAM HIGH YIELD FUND         $4,495.28         2        4,587.0200
+
+Sydney, Australia          Shelley Boughton             65    BERLINER PHILH HIGH YIELD    $1,097,438.66         1       11,085.2380
+
+Sydney, Australia          Joan Sutherland              62    THOS JEFFERSON HIGH YLD        $555,838.66         2        7,941.6860
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $10,531.00         1       10,531.0000
+
+Sydney, Australia          Barry Tuckwell               62    THOS JEFFERSON HIGH YLD      $1,232,846.78         3       20,550.8710
+
+                                                        65    BERLINER PHILH HIGH YIELD       $12,033.94         1          121.5540
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  16
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+                                                        33    MONEY MKT SECURE FUND           $46,618.22         2        5,179.8020
+
+Sydney, Australia          Cayla Smithe                 34    DEWEY HIGH YIELD FUND          $285,039.88         1       14,309.2300
+
+Sydney, Australia          Benjamin Britten             36    **** FUND NOT FOUND *****      $555,862.22         -            0.0000
+
+Sydney, Australia          Peter Pears                  35    CHEATHAM HIGH YIELD FUND       $582,919.34         1      582,919.3400
+
+Sydney, Australia          Paul Gray                    35    CHEATHAM HIGH YIELD FUND       $555,704.21         1      555,704.2100
+
+                                                        64    AMERICAN MONEY MKT FUND         $16,708.36         2          167.1000
+
+Vienna, Austria            Herbert von Karajan          02    GEOFFREY'S BBQ FUND            $786,422.02         3       11,917.2900
+
+Vienna, Austria            Josef Haydn                  51    21ST CENT MONEY MKT FUND       $786,420.93         1       84,289.4880
+
+Vienna, Austria            Johann Strauss, Jr.          30    SINGAPORE INVESTORS FUND       $921,891.34         3       26,167.7920
+
+Vienna, Austria            Karl Boehm                   33    MONEY MKT SECURE FUND          $786,420.93         2       87,380.1030
+
+Vienna, Austria            Elisa Schwarzkopf            30    SINGAPORE INVESTORS FUND       $651,033.39         3       18,479.5170
+
+Vienna, Austria            Maurizio Pollini             33    MONEY MKT SECURE FUND          $420,841.07         1       42,084.1070
+
+                                                        33    MONEY MKT SECURE FUND            $5,881.23         2          653.4700
+
+                                                        64    AMERICAN MONEY MKT FUND         $45,133.28         3          847.8910
+
+                                                        22    CITY OF CORTLAND BLDG            $5,889.76         2           65.4490
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  17
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+
+                                                      FUND                                       DEPOSIT     PRICE
+BRANCH NAME                BROKER NAME                 NBR    FUND NAME                           AMOUNT      FLAG       SHARES SOLD
+-------------------------  -------------------------  ----    -------------------------     ------------     -----   ---------------
+
+Zurich, Switzerland        Earl Grey                    33    MONEY MKT SECURE FUND          $786,537.38         3       98,317.1720
+
+                                                        33    MONEY MKT SECURE FUND           $15,042.94         2        1,671.4370
+
+Zurich, Switzerland        Diana Kensington             33    MONEY MKT SECURE FUND          $238,050.80         3       29,756.3500
+
+                                                        34    DEWEY HIGH YIELD FUND           $30,085.88         2        1,511.0930
+
+Zurich, Switzerland        Axel Vond                    33    MONEY MKT SECURE FUND          $799,964.86         3       99,995.6070
+
+                                                        35    CHEATHAM HIGH YIELD FUND        $45,179.59         2       46,101.6220
+
+Zurich, Switzerland        Ute Schweitzer               46    JOHN PHILIP SOUSA FUND         $786,420.93         3      141,697.4640
+
+                                                        21    HUSKIES HIGH YIELD FUND          $4,362.58         3          436.2580
+
+                                                        65    BERLINER PHILH HIGH YIELD       $43,328.00         3        1,229.8600
+
+                                                        35    CHEATHAM HIGH YIELD FUND         $1,624.80         3        2,901.4280
+
+Zurich, Switzerland        Rene Jacobs                  51    21ST CENT MONEY MKT FUND       $786,421.61         2      117,904.2890
+
+                                                        13    ZURICH INVESTORS FUND           $15,056.48         1       15,056.4800
+
+Zurich, Switzerland        Anton Bruckner               55    WIENER PHILH HIGH YIELD        $380,275.90         3      388,036.6320
+
+Zurich, Switzerland        Charles Pasadena             51    21ST CENT MONEY MKT FUND       $786,537.38         1       84,301.9690
+
+                                                        65    BERLINER PHILH HIGH YIELD       $15,042.94         3          426.9920
+
+
+12/12/2018                                           GETTYSBURG MUTUAL FUNDS                                               PAGE:  18
+09:11:10                                       MUTUAL FUND END-OF-DAY SALES REPORT
+                                                       SALES REPORT TOTALS
+
+                                    TOTAL SALES              TOTAL DEPOSITS              AVERAGE DEPOSIT
+                                    -----------              --------------              ---------------
+                                            103              $25,640,074.91                  $248,932.77
