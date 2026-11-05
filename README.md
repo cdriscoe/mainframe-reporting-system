@@ -9,13 +9,13 @@ This project is an academic IBM mainframe batch job for processing mutual-fund p
 - `cobol/SALESRPT.cbl` — reporting program that reads sales records and produces output
 - `cobol/BUILDTBL.cbl` — supporting COBOL module used to construct the mutual-fund lookup table
 - `assembler/CALCSHRS.asm` — IBM mainframe Assembly calculation routine
-- `jcl/ASSIGN8_sanitized.jcl` — original integrated job-control listing, with identifiers and institutional data-set owner names replaced for privacy
+- `jcl/JOB_FLOW_EXCERPT.jcl` — documented excerpt of the original seven-step job-control workflow, with in-stream code omitted and institutional dataset names sanitized
 
 ## Important limitations
 
 This is **historical university mainframe code**, preserved for code review rather than a standalone executable. The original JCL expects institutional mainframe facilities, compiler/linker programs, input datasets and COBOL `COPY` members (including `SALESREC` and `FUNDTBL`) that are not provided here. Some assembler include references likewise depend on the original environment. It has **not been compiled or executed in the current environment**.
 
-The extracted COBOL and Assembly files are copied from the archived in-stream compiler input, not rewritten modern implementations. The JCL has anonymized job/dataset identifiers; it cannot be submitted unchanged as a working job in a new environment.
+The extracted COBOL and Assembly files preserve the archived coursework implementation. The JCL file is **an excerpt**, not a complete executable job: it summarizes the original steps while omitting the large in-stream source blocks and utility allocations. It uses anonymized job/dataset identifiers and cannot be submitted unchanged as a working job.
 
 ## What it demonstrates
 
